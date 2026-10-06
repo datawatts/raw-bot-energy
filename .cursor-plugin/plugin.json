@@ -1,0 +1,22 @@
+{
+  "name": "raw-bot-energy",
+  "displayName": "Raw Bot Energy",
+  "version": "1.0.0",
+  "description": "Version your Grok Bot / Cursor agent roster into a Codebase wiki with weekday sync and avatar backup.",
+  "author": {
+    "name": "Ryan Watts"
+  },
+  "license": "MIT",
+  "keywords": [
+    "raw-bot-energy",
+    "grok-bot",
+    "cursor",
+    "agents",
+    "codebase",
+    "wiki",
+    "avatar",
+    "sync"
+  ],
+  "category": "productivity",
+  "logo": "logo.svg"
+}
